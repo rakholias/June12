@@ -1,1 +1,1 @@
-# June12
+sample map for UK 2016 forest fires
